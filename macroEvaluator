@@ -9,7 +9,7 @@
       "meanCarbonFootprint": 0.2,
       "questions": [
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid1",
           "title": "Cet hiver, chez vous, il fait plutôt...",
           "answers": [
             {
@@ -27,17 +27,17 @@
           ]
         },
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid2",
           "title": "Cet été, chez vous, il fait plutôt...",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId3",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId4",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -52,17 +52,17 @@
       "meanCarbonFootprint": 0.2,
       "questions": [
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid3",
           "title": "L’avion et vous, c’est une relation...",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId5",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId6",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -70,17 +70,17 @@
           ]
         },
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid4",
           "title": "La voiture et vous, c’est une relation...",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId7",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId8",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -95,17 +95,17 @@
       "meanCarbonFootprint": 0.2,
       "questions": [
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid5",
           "title": "On peut mettre ici une question sur trois lignes, si on a besoin !",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId9",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId10",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -113,17 +113,17 @@
           ]
         },
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid6",
           "title": "Et des courtes!",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId11",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId12",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -138,17 +138,17 @@
       "meanCarbonFootprint": 0.2,
       "questions": [
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid7",
           "title": "Quel mangeur de viande êtes-vous ?",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId13",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId14",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
@@ -156,17 +156,17 @@
           ]
         },
         {
-          "id": "this is nt a true id because it is always the same",
+          "id": "qid8",
           "title": "Et, vos fruits & légumes viennent plutôt...",
           "answers": [
             {
-              "id": "answerId1",
+              "id": "answerId15",
               "title": "answer 1",
               "subtitle": "subtitle of answer 1",
               "carbonFootprint": 0.1
             },
             {
-              "id": "answerId2",
+              "id": "answerId16",
               "title": "answer 2",
               "subtitle": "subtitle of answer 2",
               "carbonFootprint": 0.4
